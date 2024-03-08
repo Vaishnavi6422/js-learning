@@ -1,0 +1,20 @@
+console.log("========  1 ==========");
+var myfullname;
+console.log("my full name value before initilization:",myfullname);
+myfullname= "vaishnavi shidlambe";
+console.log("my full name value after initilization:",myfullname);
+myfullname= "vaishnavi Rajesh shidlambe";
+console.log("my full name value after updation:",myfullname);
+console.log("========  2 ==========");
+var mylove;
+mylove ="i love only js";
+console.log("value of mylove:",mylove);
+console.log("========  3 ==========");
+var Fname= 'vaishnavi';
+var lname= 'shidlambe';
+var age= 24;
+var address= 'pune';
+var pincode= 431001;
+var gender= 'female';
+var ismarried= false;
+
