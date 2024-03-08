@@ -17,4 +17,11 @@ var address= 'pune';
 var pincode= 431001;
 var gender= 'female';
 var ismarried= false;
+console.log("First name",Fname);
+console.log("Last name",lname);
+console.log("Age",age);
+console.log("Address",address);
+console.log("Pincode",pincode);
+console.log("Gender",gender);
+console.log("ismarried",ismarried);
 
